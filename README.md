@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center"> ☁️ Hello there! I'm Kevin ☁️ </h1>
+ 
+<div align="center">
 
-<!--
-**kxwtan/kxwtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`uWaterloo CS Student 💻`
 
-Here are some ideas to get you started:
+<img src="./campfire.gif" alt="campfire-pixelart-bg" width="400px"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left"> <b> About Me:</b> </h3>
+
+- 👨‍💻 Current SWE Intern @ Qualifacts, ML Researcher @ Vision and Image Processing Labs (uWaterloo)
+- 🌼 Previously @ Dandelion Networks, Evertz Microsystems
+- 🥞 Tech Stack:
+  - **Languages:** C/C++, Python, Golang, JavaScript, TypeScript, SQL, Java, Bash
+  - **Tools:** React, Node.js, scikit-learn, TensorFlow, PyTorch, Docker, Git, Jenkins, AWS, PostgreSQL, MongoDB
+- 🌱 When I'm not coding, I enjoy rock climbing and playing video games!
+- 🚀 Let's Connect! ~ <kx3tan@uwaterloo.ca> ~ [/in/kevin-x-tan/](https://www.linkedin.com/in/kevin-x-tan)
