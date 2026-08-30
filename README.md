@@ -9,8 +9,7 @@
 
 <h3 align="left"> <b> About Me:</b> </h3>
 
-- 👨‍💻 Current SWE Intern @ Qualifacts, ML Researcher @ Vision and Image Processing Labs (uWaterloo)
-- 🌼 Previously @ Dandelion Networks, Evertz Microsystems
+- 👨‍💻 Previously @ Databricks, Rippling, Stratum AI, ML Researcher @ Vision and Image Processing Labs (uWaterloo)
 - 🥞 Tech Stack:
   - **Languages:** C/C++, Python, Golang, JavaScript, TypeScript, SQL, Java, Bash
   - **Tools:** React, Node.js, scikit-learn, TensorFlow, PyTorch, Docker, Git, Jenkins, AWS, PostgreSQL, MongoDB
